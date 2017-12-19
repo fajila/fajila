@@ -16,12 +16,16 @@ class ScannerTest
 
 		System.out.println("Rollno"+rollno+"name:"+name+"fee:"+fee);
 		sc.close();
+}
 
-public void sum(double x,doubley)
-		{
-			double result=x-y;
-		}
-
+public void strCompare(){
+ String s1="Sachin";
+ String s2="Sachin";
+ String s3=new String("Sachin");
+ String s4="Saurav";
+ System.out.println(s1.equals(s2));
 	}
+
+	
 }
 		
